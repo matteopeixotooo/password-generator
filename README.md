@@ -39,12 +39,12 @@ The program creates easy and hard (shuffled) passwords based on user preferences
 Clone the repository:
 
 ```bash
-git clone https://github.com/seu-usuario/password-generator-python.git
-cd password-generator-python
+git clone https://github.com/matteopeixotoo/password-generator.git
+cd password-generator
 ```
 
 ```bash
-password-generator-python/
+password-generator/
 │
 ├── password_generator.py
 └── README.md
