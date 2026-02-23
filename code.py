@@ -24,7 +24,7 @@ print(password_list)
 # SERIE
 password = ""
 for carac in password_list:
-    password += carac + ""
+    password += carac
 
 print(f"Your easy password is: {password}")
 
@@ -32,6 +32,6 @@ print(f"Your easy password is: {password}")
 password = ""
 random.shuffle(password_list)
 for carac in password_list:
-    password += carac + ""
+    password += carac
 
 print(f"Your difficult password is: {password}")
